@@ -1,0 +1,17 @@
+/* Portfolio.css */
+.portfolio {
+    background-color: #333; /* Dark gray background for sections */
+    color: #fff;
+    padding: 2rem;
+    text-align: left; /* Align text to the left */
+  }
+  
+  .portfolio h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .portfolio p {
+    font-size: 18px;
+  }
+  

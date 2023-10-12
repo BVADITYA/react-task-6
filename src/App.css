@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #222; /* Dark gray background */
+  color: #fff; /* White text color */
+}
+
+.App {
+  text-align: right; /* Align text to the right */
+}
+
+.header {
+  background-color: #111; /* Dark gray header background */
+  color: #fff;
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.header h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.header p {
+  font-size: 18px;
+}
+
+.about, .portfolio {
+  background-color: #333; /* Dark gray background for sections */
+  color: #fff;
+  padding: 2rem;
+  text-align: left; /* Align text to the left */
+}
+
+.about h2, .portfolio h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.about p, .portfolio p {
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: red;
+}
